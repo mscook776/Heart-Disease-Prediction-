@@ -14,6 +14,15 @@ List of Machine Learning Algorithms:
 8) Decision Tree Classifier
 
 # Data Info
+918 Total Observations \
+Total: 1190 observations \
+Duplicated: 272 observations
+* Cleveland: 303 observations
+* Hungarian: 294 observations
+* Switzerland: 123 observations
+* Long Beach VA: 200 observations
+* Stalog (Heart) Data Set: 270 observations
+
 1) Age: age of the patient [years]
 2) Sex: sex of the patient [M: Male, F: Female]
 3) ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
@@ -26,5 +35,8 @@ List of Machine Learning Algorithms:
 10) Oldpeak: oldpeak = ST [Numeric value measured in depression]
 11) ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 12) HeartDisease: output class [1: heart disease, 0: Normal]
+
+# Citation
+fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
 
